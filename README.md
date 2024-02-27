@@ -6,6 +6,6 @@ This is done by executing a GET request every 5 mins using the [reqwests crate](
 ## Usage
 1. Clone the repository.
 ```bash
-git clone
+git clone https://github.com/KevKibe/Automated-Free-tier-Serverless-App-Uptime-Maintenance-with-Rust-and-GitHub-Actions.git
 ```
 2. Replace the existing URLs in the urls vector with the actual URLs of your serverless applications 
