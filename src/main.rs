@@ -5,6 +5,7 @@ async fn main() -> Result<(), Error> {
     let urls = vec![
         "https://behaviour-analysis.onrender.com/",
         "https://insightai.onrender.com/",
+        "https://insightaiserver.onrender.com/health"
     ];
 
     for url in urls {
