@@ -8,7 +8,8 @@ async fn main() -> Result<(), Error> {
         "https://aipredictivecare-backend-services.onrender.com",
         "https://clean-waste-backend.onrender.com",
         "https://debtscleared-backend.onrender.com",
-        "https://insightai-backend-eetx.onrender.com"
+        "https://insightai-backend-eetx.onrender.com",
+        "https://insightaiserver-z4ms.onrender.com/health"
 
     ];
 
