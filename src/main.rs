@@ -10,10 +10,7 @@ async fn main() -> Result<(), Error> {
         "https://insightaiserver-z4ms.onrender.com/health",
         "https://africantrade-backend.onrender.com",
         "https://headhuntrs-backend.onrender.com",
-        "https://debtscleared-backend.onrender.com",
-
-
-
+        "https://debtscleared-backend.onrender.com"
     ];
 
     for url in urls {
