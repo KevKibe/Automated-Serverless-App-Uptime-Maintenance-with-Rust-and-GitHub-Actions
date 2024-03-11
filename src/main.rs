@@ -16,7 +16,8 @@ async fn main() -> Result<(), Error> {
         "https://sokoly-backend.onrender.com/",
         "https://wellnz-backend.onrender.com/",
         "https://mudmasters-backend.onrender.com/",
-        "https://mindmysteries-backend.onrender.com/"
+        "https://mindmysteries-backend.onrender.com/",
+        "https://aipredictivecareserver.onrender.com/health"
     ];
 
     for url in urls {
